@@ -7,4 +7,5 @@ RUN git clone https://github.com/mgaitan/fortran_magic && \
     cd fortran_magic && \
     python setup.py install
 ENV HOME=/tmp
+RUN cd $HOME && git clone https://github.com/manuparra/asteroseismology
 WORKDIR ${HOME}
