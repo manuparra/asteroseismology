@@ -6,4 +6,4 @@ Asteroseismology, that is, the use of the frequency content of a time series cau
 
 This report study the effect of extending the Fourier kernel to a particular quaternion and exploring the impact when it is applied to the best time series that we have (GOLF/SoHO) from the closest star, our Sun. The results are consistent with a notable improvement in the signal-to-noise ratio in the low frequency range. This opens the possibility of detecting the elusive g modes of the Sun in future works.
 
-[!PowerSpec](https://github.com/manuparra/asteroseismology/blob/master/docs/powerspectrum_18_5.png)
+![PowerSpec](./docs/powerspectrum_18_5.png)
